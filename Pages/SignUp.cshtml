@@ -2,8 +2,46 @@
 @model SignUpModel
 @{
     ViewData["Title"] = "Signup";
-}
 
-<div class="text-center">
-    <h1 class="display-3">Sign Up</h1>
-</div>
+ /*   if(Post ==  true){
+        string firstname = Request.Form["fname"];
+        string lastname = Request.Form["lname"];
+        string email = Request.Form["email"];
+        string password = Request.Form["passwd"];
+
+        <text>
+            Name: @firstname <br />
+            Surname: @lastname <br />
+            Email: @email <br />
+            Password: @password <br />
+        </text>
+    } */
+}
+<body>
+    <div class="text-center">
+        <h1 class="display-3">Sign Up</h1><br><br>
+    </div>
+    <div class="text-center">
+        <form method="post">
+            <div>
+                <label for="fname">First name:</label>
+                <input id="fname" name="fname" placeholder="Carl" value="" ><br><br>
+            </div>
+            <div>
+                <label for="lname">Last name:</label>
+                <input id="lname" name="lname" placeholder="Johnson" value=""><br><br>
+            </div>
+            <div>
+                <label for="email">E-Mail:</label>
+                <input id="email" name="email" placeholder="your@email.com" value=""><br><br>
+            </div>
+            <div>
+                <label for="passwd">Password:</label>
+                <input type="password" id="passwd" name="passwd" value=""><br><br>
+            </div>
+            <div>
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+    </div>
+</body>
