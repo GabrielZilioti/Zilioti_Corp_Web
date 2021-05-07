@@ -39,3 +39,4 @@ C:\Users\A376228\source\repos\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.pdb
 C:\Users\A376228\source\repos\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.genruntimeconfig.cache
 C:\Users\A376228\source\repos\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CopyComplete
 C:\Users\A376228\source\repos\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\A376228\source\repos\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\SignUp.cshtml.g.cs

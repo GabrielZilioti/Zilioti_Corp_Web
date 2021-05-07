@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\A376228\\source\\repos\\aspnetcoreapp\\Pages\\SignUp.cshtml",
+      "TargetPath": "Pages\\SignUp.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\A376228\\source\\repos\\aspnetcoreapp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
