@@ -15619,6 +15619,11 @@
   "RootNamespace": "aspnetcoreapp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\A376228\\source\\repos\\aspnetcoreapp\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\A376228\\source\\repos\\aspnetcoreapp\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
